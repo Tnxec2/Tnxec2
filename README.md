@@ -9,9 +9,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/monsuzin" target="blank"><img align="center" src="images/instagram.svg" alt="monsuzin" height="30" width="40" /></a>
-</p>
-<p align="left">
-<a href="https://www.reddit.com/user/kontranik" target="blank"><img align="center" src="images/instagram.svg" alt="monsuzin" height="30" width="40" /></a>
+&nbsp;
+<a href="https://www.reddit.com/user/kontranik" target="blank"><img align="center" src="images/reddit.svg" alt="monsuzin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
