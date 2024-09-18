@@ -6,14 +6,14 @@
 - 📫You can reach me on Reddit [https://www.reddit.com/user/kontranik/](https://www.reddit.com/user/kontranik/)
 - ⚡ Fun fact **In my free time I like to crochet 🧶, read books 📖 and go sailing ⛵️**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="left">
 <a href="https://instagram.com/monsuzin" target="blank"><img align="center" src="images/instagram.svg" alt="monsuzin" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.reddit.com/user/kontranik" target="blank"><img align="center" src="images/reddit.svg" alt="monsuzin" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -68,20 +68,18 @@
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
+## Support
 <p align="left">
   <a href="https://www.buymeacoffee.com/tnxec2">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tnxec2" />
   </a>
 </p>
-<br>
-<br>
 
+## Stats
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tnxec2&show_icons=true&locale=en&layout=compact" alt="tnxec2" />
 </p>
-<br>
-<br>
+
 <p align="left">
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tnxec2&show_icons=true&locale=en" alt="tnxec2" />
