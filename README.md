@@ -3,8 +3,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tnxec2](https://github.com/Tnxec2)
 - 💬 Ask me about **java, angular, react, js**
-- 📫You can reach me on Reddit [https://www.reddit.com/user/kontranik/](https://www.reddit.com/user/kontranik/)
-- ⚡ **In my free time I like to crochet 🧶, read books 📖 and go sailing ⛵️**
+- 📫 You can reach me on Reddit [https://www.reddit.com/user/kontranik/](https://www.reddit.com/user/kontranik/)
+- ⚡ In my free time I like to **crochet 🧶, read books 📖 and go sailing ⛵️**
 
 ## Connect with me
 <p align="left">
