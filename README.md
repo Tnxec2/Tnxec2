@@ -82,11 +82,11 @@
 
 ## Stats
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tnxec2&show_icons=true&locale=en&layout=compact" alt="tnxec2" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tnxec2&show_icons=true&locale=en&layout=compact" alt="tnxec2" />
 </p>
 <br>
 <br>
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tnxec2&show_icons=true&locale=en" alt="tnxec2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tnxec2&show_icons=true&locale=en" alt="tnxec2" />
 </p>
 
