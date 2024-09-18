@@ -71,7 +71,7 @@
 ## Support
 <p align="left">
   <a href="https://www.buymeacoffee.com/tnxec2">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tnxec2" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tnxec2" />
   </a>
 </p>
 
