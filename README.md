@@ -69,18 +69,20 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/tnxec2">
-  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tnxec2" />
-</a>
+<p align="left">
+  <a href="https://www.buymeacoffee.com/tnxec2">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tnxec2" />
+  </a>
 </p>
 <br>
 <br>
 
-<p>
+<p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tnxec2&show_icons=true&locale=en&layout=compact" alt="tnxec2" />
 </p>
-
-<p>
+<br>
+<br>
+<p align="left">
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tnxec2&show_icons=true&locale=en" alt="tnxec2" />
 </p>
