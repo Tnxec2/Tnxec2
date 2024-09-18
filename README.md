@@ -1,7 +1,7 @@
 # Hi 👋, I'm Nikolas Maletschkin-Eichmann
 ## A fullstack software developer from Germany
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tnxec2](https://github.com/Tnxec2](https://github.com/Tnxec2?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Tnxec2?tab=repositories](https://github.com/Tnxec2?tab=repositories)
 - 💬 Ask me about **java, angular, react, js**
 - 📫 You can reach me on Reddit [https://www.reddit.com/user/kontranik/](https://www.reddit.com/user/kontranik/)
 - ⚡ In my free time I like to **crochet 🧶, read books 📖 and go sailing ⛵️**
