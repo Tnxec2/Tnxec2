@@ -76,7 +76,7 @@
 </p>
 <p align="left">
   <a href="https://www.paypal.com/donate/?hosted_button_id=KJYJ8M8GCEFR4">
-    <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" height="50" alt="Donate with PayPal" />
+    <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" height="70" alt="Donate with PayPal" />
   </a>
 </p>
 
