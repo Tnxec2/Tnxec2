@@ -74,19 +74,11 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tnxec2" />
   </a>
 </p>
-[
-  ![Buy me a coffee]
-  (https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)
-]
-(https://www.buymeacoffee.com/tnxec2)
-
-[
-  ![Donate with PayPal]
-  (https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
-]
-(https://www.paypal.com/donate/?hosted_button_id=KJYJ8M8GCEFR4)
-
-
+<p align="left">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=KJYJ8M8GCEFR4">
+    <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" height="50" width="210" alt="tnxec2" />
+  </a>
+</p>
 
 ## Stats
 <p align="left">
