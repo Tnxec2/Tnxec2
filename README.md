@@ -87,7 +87,6 @@
 <br>
 <br>
 <p align="left">
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tnxec2&show_icons=true&locale=en" alt="tnxec2" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tnxec2&show_icons=true&locale=en" alt="tnxec2" />
 </p>
 
