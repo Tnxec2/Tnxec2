@@ -4,7 +4,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Tnxec2?tab=repositories](https://github.com/Tnxec2?tab=repositories)
 - 💬 Ask me about **java, angular, react, js**
 - 📫 You can reach me on Reddit [https://www.reddit.com/user/kontranik/](https://www.reddit.com/user/kontranik/)
-- ⚡ In my free time I like to **crochet 🧶, read books 📖 and go sailing ⛵️**
+- ⚡ In my free time I like to **crochet 🧶, read books 📖, make yoga 🧘 and go sailing ⛵️**
 
 ## Connect with me
 <p align="left">
